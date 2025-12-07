@@ -4,7 +4,7 @@
   "name": "ja-eh-5-da-manha",
   "displayName": "Já é cinco da manhã",
   "description": "Tira o já boy!",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.106.1"
   },

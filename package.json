@@ -1,0 +1,21 @@
+{
+  "name": "ja-eh-5-da-manha",
+  "displayName": "Já é cinco da manhã",
+  "description": "Tira o já boy!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.106.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Já é cinco da manhã",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ja-eh-cinco-da-manha-color-theme.json"
+      }
+    ]
+  }
+}

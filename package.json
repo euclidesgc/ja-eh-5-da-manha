@@ -17,5 +17,9 @@
         "path": "./themes/ja-eh-cinco-da-manha-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/euclidesgc/ja-eh-5-da-manha.git"
   }
 }
